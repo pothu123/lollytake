@@ -111,7 +111,6 @@ font-family: FontAwesome;
 font-style: normal;
 font-weight: normal;
 text-decoration: inherit;font-size:28px;color:#F7C703;}
-.address-left h6.phone:before{content: "\f095";}
 .address-left h6.location:before{content: "\f041";}
 .address-right{padding:0;}
 .address-right p{font-size:18px;line-height:22px;font-weight:500;padding:0 0 15px 15px;}
