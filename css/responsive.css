@@ -1,0 +1,111 @@
+
+
+@media only screen and (max-width:1200px){
+    
+    .container{padding:0 60px;}
+    .banner-cnt-left{padding:0 50px 0  0;}
+    h2{font-size:38px;}
+    .google-pay{bottom:18%;}
+    .slick-prev{left:-40px;}
+    .slick-next{right:-40px;}
+}
+
+@media only screen and (max-width:1024px){
+    
+    .container{padding:0 50px;}
+    h2{font-size:36px;line-height:40px;}
+    .address-right p{word-break: break-all;}
+}
+
+@media only screen and (max-width:991px){
+    .container{padding:0 30px;}
+    .navbar-brand img{width:200px;}
+    h2{font-size:29px;line-height:34px;}
+    nav ul li{padding:0 0 0 8px;}
+    .google-pay ul li img{width:120px;}
+    .google-pay{bottom:12%;}
+    .slick-prev{left:-27px;}
+    .slick-next{right:-27px;}
+    
+}
+
+@media only screen and (max-width:767px){
+    .container {padding:0 25px;}
+    .contact-blk h3{padding:20px 0 0 0;}
+    header{text-align: center;}
+    nav ul li{padding:0 0 10px 0;}
+    .contact-in{padding:30px 0;}
+    .form{max-width:100%;margin:0 auto;}
+    .form{padding:30px 15px;}
+    .navbar-toggler{background:inherit;padding:0;border:0;width:30px;height:20px;}
+    .navbar-toggler span{display: block;width:100%;background:#ffffff;margin:0 0 5px 0;height:2px;}
+    button:focus{outline:none;}
+    .navbar-nav{padding: 30px 0 0 0;background:#F7C703;margin:20px 0 0 0;border-radius:5px;}
+    .navbar-expand-md .navbar-nav .nav-link:hover{color:#1c3427;}
+    .navbar-expand-md .navbar-nav .nav-link.active{color:#1c3427;}
+    .google-pay ul{margin:0 -10px;}
+    .google-pay ul li{padding:0 10px;}
+    p{font-size:16px;line-height:22px;}
+    .banner-cnt-right ul{margin:0 -10px;}
+    .banner-cnt-right ul li{padding:0 10px;}
+    .banner-cnt-right ul li:nth-child(2){padding: 70px 10px 0 10px;}
+     .slick-prev{left:-55px;}
+    .slick-next{right:-55px;}
+    .social-icons li a{width:30px;height:30px;display: block;}
+    .banner-cnt-left p{margin:0 0 40px 0;}
+     .banner-cnt-left{width:100%;padding: 0 0px 80px 0;}
+    .banner-cnt-right{width:100%;padding:0 0 0px 0;}
+    .banner-in{padding:0px 50px 30px 50px;text-align: center;}
+    .banner-cnt{padding:0px 0 0 0;}
+    .logo{text-align: center;}
+    h4{font-size:18px;}
+    .win-right{padding:0 0 30px 0;;}
+    .win-right figure img{width:100%;}
+    .google-pay{bottom:70%;}
+    .google-pay {border-radius:0;}
+    .contact-us-right{padding:0;}
+     .google-pay ul{justify-content: center;}
+    .watch ul{justify-content: center;}
+    .watch ul li{padding:0 15px 0 0;}
+    
+}
+
+
+
+@media only screen and (max-width:575px){
+   
+   .navbar-brand img {width:200px;}
+    h4{font-size:16px;}
+    .footer-left ul{justify-content: center;-webkit-justify-content: center;}
+    .social-icons {justify-content: center;-webkit-justify-content: center;}
+    .footer-left{padding:0 0 15px 0;}
+    .terms-conditions{padding:20px 0;}
+    p{font-size:14px;}
+    .address-left h6 {font-size:16px;padding:0 0 0 25px;}
+    .address-left h6:before{font-size:20px;}
+   
+    .address-right p a{word-break: break-all;}
+    .address-right p{font-size:14px;margin:0;}
+    .banner-in{text-align: center;}
+    .google-pay{left:0;right:0;margin:0 auto;text-align: center;}
+   
+   
+    
+}
+
+@media only screen and (max-width:480px){
+    .container{padding:0 15px;}
+    .footer-left ul{margin:0 -5px;}
+    .footer-left ul li{padding:0 5px;}
+    .footer-left ul {margin:0 -5px;}
+    .social-icons li{padding:0 0 0 5px;}
+    .social-icons li a{width:20px;height:20px;}
+    h2{font-size:22px;line-height: 28px;padding:0 0 10px 0;}
+    .banner-cnt-left p{margin:0 0 20px 0;}
+    footer p{font-size:12px;}
+    .navbar-brand img{width:140px;}
+    .google-pay {bottom:60%;}
+    .banner-in{padding: 0px 10px 30px 10px;}
+    .slick-prev{left:-10px;}
+    .slick-next{right:-10px;}
+}
